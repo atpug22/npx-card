@@ -15,6 +15,7 @@ npx aryaman
 
 ## Installation.
 
+ - Clone the repo
    ```bash
       git clone https://github.com/atpug22/npx-card.git
       cd npx-card
